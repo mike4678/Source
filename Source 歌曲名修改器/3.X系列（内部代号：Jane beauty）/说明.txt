@@ -1,0 +1,12 @@
+脚本更新检测网址：http://update.csource.com.cn/music/script.php
+执行方式：POST
+提交信息：key=xxx
+
+返回结果：
+1.no update！
+2.
+key#A2
+website#http://mp3.sogou.com/music.so?st=5&query=!code!&debug=null&comp=1$
+Script#<li class="name"><span>歌曲：</span><a href="(.|\s)*?</li>$
+left#target="_blank">$
+right#</a></li>$

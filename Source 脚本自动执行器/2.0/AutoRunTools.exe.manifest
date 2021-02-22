@@ -1,0 +1,7 @@
+[ini]
+silence=0
+file=config.ini
+[main]
+title=Source 数据备份程式
+background=1
+font=16
