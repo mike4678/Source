@@ -1,0 +1,11 @@
+[FileType]
+List=ApkType.png;Apps.png;CADType.png;DocType.png;ExeType.png;FolderType.png;ImgType.png;IpaType.png;MusicType.png;OtherType.png;PdfType.png;PptType.png;RarType.png;TorrentType.png;TxtType.png;VideoType.png;VsdType.png;XlsType.png
+
+[FileTypeSmall]
+List=ApkType_small.png;Apps_small.png;CADType_small.png;DocType_small.png;ExeType_small.png;FolderType_small.png;ImgType_small.png;IpaType_small.png;MusicType_small.png;OtherType_small.png;PdfType_small.png;PptType_small.png;RarType_small.png;TorrentType_small.png;TxtType_small.png;VideoType_small.png;VsdType_small.png;XlsType_small.png
+
+[FileTypePanel]
+List=all.png;app.png;doc.png;image.png;music.png;myshare.png;other.png;recycle.png;safebox.png;seed.png;video.png
+
+[Face]
+Count=57

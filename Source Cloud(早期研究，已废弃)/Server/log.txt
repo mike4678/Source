@@ -1,0 +1,1 @@
+INSERT INTO `share` (`sharename`, `sharecode`, `sharepwd`, `fileid`, `username`, `timestamp`, `overtime`) VALUES ('«Î…Ë∂®', 'ra5R7', '', '38,40,12,15,12,40,42', 'user', '1535077916103', '')

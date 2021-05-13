@@ -1,0 +1,1 @@
+UPDATE userspace SET sign = sign + '100000856' WHERE username ='888';INSERT INTO LotteryDraw (`username`, `timestamp`) VALUES ('888','1532708947');

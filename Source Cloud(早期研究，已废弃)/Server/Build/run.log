@@ -1,0 +1,1 @@
+insert into userspace (username,freespace,chargespace,vipgive,sign,space) values ('user1','536870912','0','1073741824','0','0');
